@@ -10,7 +10,7 @@ The purpose for this assignment was to learn more about unsupervised machine lea
 
 ## Visualization
 The data has been clustered in 4 classes, and was represented using a 3D model. Elbow curve calculations were performed to choose the most ideal k-value for the K-Mean model. 
-![3D Model](images/3D_model)
+![3D Model](images/3D_model.PNG)
 
 A scatter plot has also been created to visualize how many coins have been mined and what the supply for coins is in total:
-![2D Model](images/2D)
+![2D Model](images/2D.PNG)
